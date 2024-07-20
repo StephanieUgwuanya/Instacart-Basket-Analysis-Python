@@ -7,17 +7,17 @@ My analysis entailed performing initial exploratory analysis on their data in or
 
 <h2>Sales Teams Questions & Objectives</h2>
 
-<b>● The busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
+● The busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 
 ● They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
 
 ● Instacart has a lot of products with different price tags. Marketing and sales want to use simpler price range groupings to help direct their efforts.
 
-● Are there certain types of products that are more popular than others? Which departments have the highest frequency of product order.</b>
+● Are there certain types of products that are more popular than others? Which departments have the highest frequency of product order.
 
 <h2>Marketing Team Questions & Objectivess</h2>
 
-<b>● What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+● What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
 
 - Are there differences in ordering habits based on a customer’s loyalty status?
   
@@ -27,7 +27,7 @@ My analysis entailed performing initial exploratory analysis on their data in or
 
 ● What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 
-- What differences can you find in ordering habits of different customer profiles?</b>
+- What differences can you find in ordering habits of different customer profiles?
 
 <h1>Data & Tools</h1>
 
@@ -40,6 +40,21 @@ The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instaca
 Please see below the Python Libaries used throughout this project:
 
 Pandas, Numpy, Seaborn, Matplotlib and Scipy
+
+<h1>Folders</h1>
+
+<b>01 Project Management</b>
+Conatins the project brief outlining the objectives, key questions and data sources.
+
+<b>03 Scripts</b>
+Contains the python scripts created on both Jupyter and Google Colab detailing the analysis process.
+
+<b>04 Analysis/Visualisation</b>
+Contains the visualisations created through Python code to support the analysis.
+
+05 Sent to Client
+Contains the final report
+
 
 
 
