@@ -37,7 +37,7 @@ The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instaca
 
 <h2>Python Libraries</h2>
 
-Please see below the Python Codes used through this project:
+Please see below the Python Libaries used throughout this project:
 
 Pandas, Numpy, Seaborn, Matplotlib and Scipy
 
