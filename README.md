@@ -35,4 +35,11 @@ Jupyter Notebook, Google Colab
 
 The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via <a href="https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis">Kaggle</a> on 20/07/2024 
 
+<h2>Python Libraries</h2>
+
+Please see below the Python Codes used through this project:
+
+Pandas, Numpy, Seaborn, Matplotlib and Scipy
+
+
 
