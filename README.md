@@ -31,4 +31,8 @@ My analysis entailed performing initial exploratory analysis on their data in or
 
 <h1>Data & Tools</h1>
 
+Jupyter Notebook, Google Colab 
+
+The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via <a href="https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis">Kaggle</a> on 20/07/2024 
+
 
