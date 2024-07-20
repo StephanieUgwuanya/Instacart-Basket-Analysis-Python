@@ -52,7 +52,7 @@ Contains the python scripts created on both Jupyter and Google Colab detailing t
 <b>04 Analysis/Visualisation</b>
 Contains the visualisations created through Python code to support the analysis.
 
-05 Sent to Client
+<b>05 Sent to Client</b>
 Contains the final report
 
 
