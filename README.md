@@ -18,12 +18,15 @@ My analysis entailed performing initial exploratory analysis on their data in or
 <h2>Marketing Team Questions & Objectivess</h2>
 
 <b>● What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+
 - Are there differences in ordering habits based on a customer’s loyalty status?
+  
 - Are there differences in ordering habits based on a customer’s region?
+  
 - Is there a connection between age and family status in terms of ordering habits?
 
 ● What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
-- What differences can you find in ordering habits of different customer
-profiles?</b>
+
+- What differences can you find in ordering habits of different customer profiles?</b>
 
 
