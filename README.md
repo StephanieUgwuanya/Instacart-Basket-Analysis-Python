@@ -5,7 +5,8 @@ My analysis entailed performing initial exploratory analysis on their data in or
 
 <h1>Key Questions & Objectives</h1>
 
-<b> Sales Teams Question & Objectives
+<h2>Sales Teams Question & Objectives</h2>
+
 ● The busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 
 ● They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
@@ -14,7 +15,7 @@ My analysis entailed performing initial exploratory analysis on their data in or
 
 ● Are there certain types of products that are more popular than others? Which departments have the highest frequency of product order
 
-Marketing Team Questions & Objectives
+<h2>Marketing Team Questions & Objectivess</h2>
 
 ● What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
 - Are there differences in ordering habits based on a customer’s loyalty status?
