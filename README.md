@@ -29,4 +29,6 @@ My analysis entailed performing initial exploratory analysis on their data in or
 
 - What differences can you find in ordering habits of different customer profiles?</b>
 
+<h1>Data & Tools</h1>
+
 
