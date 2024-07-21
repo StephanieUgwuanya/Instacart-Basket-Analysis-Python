@@ -53,7 +53,7 @@ Contains the python scripts created on both Jupyter and Google Colab detailing t
 Contains the visualisations created through Python code to support the analysis.
 
 <b>05 Sent to Client</b>
-Contains the final report
+Contains the final report.
 
 
 
